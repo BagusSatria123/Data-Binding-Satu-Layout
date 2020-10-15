@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">08-databinding</string>
+    <string-array name="agama">
+        <item>Islam</item>
+        <item>Katolik</item>
+        <item>Kristen</item>
+        <item>Budha</item>
+        <item>Hindu</item>
+        <item>Lain-lain</item>
+    </string-array>
+    <string-array name="TPendidikan">
+        <item>Tidak lulus SD</item>
+        <item>SD</item>
+        <item>SLTP</item>
+        <item>SMA</item>
+        <item>Diploma</item>
+        <item>Sarjana Muda</item>
+        <item>Sarjana</item>
+        <item>Magister</item>
+        <item>Doktor</item>
+    </string-array>
+    <string-array name="status">
+        <item>Terakreditasi dengan nilai A</item>
+        <item>Terakreditasi dengan nilai B</item>
+        <item>Terakreditasi dengan nilai C</item>
+        <item>Terakreditasi dengan nilai D</item>
+        <item>Belum Terakreditasi</item>
+    </string-array>
+    <string-array name="jurusan">
+        <item>SMA IPA</item>
+        <item>SMA IPS</item>
+        <item>SMA Bahasa</item>
+        <item>SMK Ekonomi</item>
+        <item>SMK Teknik</item>
+        <item>SMK Ketrampilan</item>
+        <item>SMF</item>
+        <item>Lain-lain</item>
+    </string-array>
+</resources>
